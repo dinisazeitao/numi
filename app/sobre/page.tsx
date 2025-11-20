@@ -8,6 +8,8 @@ export default function Page() {
   <nav className="flex gap-4">
     <Link href="/">Intro</Link>
     <Link href="/sobre">Sobre</Link>
+    <Link href="/caracteristicas">Caracteristicas</Link>
+    <Link href="/tecnologias">Tecnologias</Link>
   </nav>
 </header>
 
